@@ -1,3 +1,5 @@
+![Poster](https://github.com/ahammadshawki8/NumPy-Journey/blob/master/numpy.jpg)
+
 # Journey Description
 NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. It is the backbone of many important libraries like Pandas, Matplotlib, SciPy etc. Fundamental library for Data Science.
 After learning the materials of this repository, coders can perform a large number of mathematical operations using NumPy very easily.
