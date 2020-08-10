@@ -5,7 +5,7 @@ NumPy is a library for the Python programming language, adding support for large
 After learning the materials of this repository, coders can perform a large number of mathematical operations using NumPy very easily.
 
 
-# _I am grateful to the following stuffs which help me a lot to create this repository:_
+# _I am grateful to the following stuffs which helped me a lot to create this repository:_
 
 * The official numpy documentation - https://numpy.org/learn/
 
@@ -19,4 +19,4 @@ Video tutorials:
   3. Keith Galli (@KeithGalli) - https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw
   
 # _License_
-Details Can be found in [License](https://github.com/ahammadshawki8/NumPy-Journey/blob/master/LICENSE)
+Details Can be found in [LICENSE](https://github.com/ahammadshawki8/NumPy-Journey/blob/master/LICENSE)
